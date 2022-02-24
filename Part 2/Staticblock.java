@@ -4,6 +4,7 @@ public class Staticblock {
     static int a = 10;
     static int b;
 
+    // will only run once , when the first object is create i.e when the class is loaded for the first time 
     static{
         System.out.println("Hello welcome you all");
         b = a * 5;
