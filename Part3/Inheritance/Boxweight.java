@@ -1,4 +1,4 @@
-package Inheritance;
+package Part3.Inheritance;
 
 public class Boxweight extends Box{
     int weight;

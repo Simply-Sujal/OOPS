@@ -1,4 +1,4 @@
-package Polymorphism;
+package Part3.Polymorphism;
 
 public class Main {
     Shapes shape = new Shapes();
